@@ -1,4 +1,3 @@
-# uok-gpa-calculator
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
