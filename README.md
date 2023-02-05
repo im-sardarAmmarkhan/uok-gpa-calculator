@@ -2,8 +2,6 @@
 
 This calculator calculates the GPA and Grade of a subject and semester.
 
-<hr>
-
 ## How to use?
 Just Download the **gpa_calculator.cpp** file and run it in any IDE that supports C++.
 
